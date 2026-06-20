@@ -28,6 +28,4 @@ A comprehensive Restaurant Management System built with Node.js, Express, and Mo
    npm start
    ```
 
-## License
 
-This project is licensed under the MIT License.
